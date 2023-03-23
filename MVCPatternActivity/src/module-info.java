@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author PAWNSTACHE
+ *
+ */
+module MVCPatternActivity {
+}
